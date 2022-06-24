@@ -1,2 +1,2 @@
 # personalwebsite
-Personal-Website for publishing current thesis work
+Personal website for publishing current thesis work
